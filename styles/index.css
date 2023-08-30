@@ -77,3 +77,9 @@ input[type="text"] + button {
 .thumbnail-option button:hover {
   background-color: #2680c5;
 }
+
+.content-container {
+  max-width: 800px; /* Adjust as needed */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 0 20px; /* Add margins to the left and right */
+}
