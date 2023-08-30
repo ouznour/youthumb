@@ -29,7 +29,7 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-	  <div>
+	  <div class="content-container">
 	    <h1>About YoutTube Thumbnail Downloader - Easily Download YouTube Thumbnails</h1>
 	    <p>
 	      Discover the convenience of TubeThumbnail, YouTube thumbnail downloader. Download YouTube thumbnails quickly and effortlessly with this online tool. No app installation required – it's completely free for everyone.

@@ -13,6 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  text-align: center;
 }
 
 /* Style the input and button for the YouTube URL */
